@@ -1,5 +1,13 @@
 # Customer Churn Prediction
 
+## Git Repository
+
+This project is hosted in the following Git repository:
+
+- GitHub: [NAGP26_DataScience](https://github.com/aadil-hussain77/NAGP26_DataScience.git)
+- Remote URL: `https://github.com/aadil-hussain77/NAGP26_DataScience.git`
+- Default branch: `main`
+
 ## Project Overview
 
 This project develops an end-to-end machine learning solution to predict whether a telecom customer is likely to churn.
