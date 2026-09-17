@@ -8,6 +8,13 @@ This project is hosted in the following Git repository:
 - Remote URL: `https://github.com/aadil-hussain77/NAGP26_DataScience.git`
 - Default branch: `main`
 
+## Demo
+
+Watch the demo video to see the an end-to-end machine learning solution to predict whether a telecom customer is likely to churn:
+
+[📹 Demo Video](https://nagarro-my.sharepoint.com/:v:/p/aadil_hussain/IQCGZ3lZZyYcQ4h_Qq-dOdmxAUCbEsmu5KOc73M6YlKASKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=trKfkz)
+
+
 ## Project Overview
 
 This project develops an end-to-end machine learning solution to predict whether a telecom customer is likely to churn.
